@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-https://github.com/tktanisha#i-m-passionate-front-end-developer-specialized-in-building-exceptional-web-apps-based-in-rajasthan-india-
+https://github.com/Priya-0217 ##i-m-passionate-front-end-developer-specialized-in-building-exceptional-web-apps-based-in-rajasthan-india-
