@@ -5,5 +5,5 @@
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-0217&label=Profile%20views&color=0e75b6&style=flat" alt="Priya" /> </p>
 <h3 align="center">I’m a passionate and highly motivated fresher currently pursuing Electronics and Communication Engineering at NIT Srinagar. Though I’m at the beginning of my professional journey, I’m deeply excited about learning and growing in the fields of software development, data structures & algorithms, and machine learning. 📍</h3>
-<img align="right" width="400" alt="coding"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHgxbXpraGczc3g0NHVwbmMyaXNraTFpZHVhY3N5dXZienluN3JpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" alt="coding"  src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
