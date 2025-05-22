@@ -3,7 +3,6 @@
 <!--
 **Priya-0217/Priya-0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub Art](https://gitartwork.vercel.app/api/card?username=Priya-0217)
 
 
 Here are some ideas to get you started:
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/Priya-0217 ##i-m-passionate-front-end-developer-specialized-in-building-exceptional-web-apps-based-in-rajasthan-india-
+![GitHub Art](https://gitartwork.vercel.app/api/card?username=Priya-0217)
