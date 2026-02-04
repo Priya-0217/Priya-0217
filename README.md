@@ -9,9 +9,9 @@
 
 
 <br><br><br><br>
-- 📫 How to reach me *priyagupta3885@gmail.com*
+- 📫 How to reach me *prilgupta017@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U9GqP4tibBuXije7BKNpzsDslPg5fQAV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tz8zEkC6J_qnRpseyPVI0nu39edG5RzW/view?usp=sharing)
 
 <br><br><br><br>
 <hr>
