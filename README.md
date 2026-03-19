@@ -11,7 +11,7 @@
 <br><br><br><br>
 - 📫 How to reach me *prilgupta017@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j0XEWePKiwzx9cMEWRrU9v1HYKg-8_fP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IqdA0phblacTR_hDzpewCOXOausKlTjn/view?usp=sharing)
 
 <br><br><br><br>
 <hr>
